@@ -8,10 +8,6 @@ class Tests extends WordSpec {
       assert(true)
     }
 
-    "Fail" in {
-      throw new RuntimeException("A failure occurred. Surprise!")
-    }
-
   }
 
 }
