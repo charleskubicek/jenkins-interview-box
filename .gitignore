@@ -1,1 +1,36 @@
 .vagrant
+.idea
+
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+logs
+project/project
+project/target
+target
+lib_managed
+tmp
+.history
+dist
+/.idea
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
+*.iws
+
